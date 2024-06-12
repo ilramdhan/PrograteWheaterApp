@@ -23,3 +23,5 @@ When targeting web, you'll need to use the Next.js CLI instead of Expo CLI:
 ### 👀 More Info
 
 - [Next Adapter repo](https://github.com/expo/expo-cli/tree/main/packages/next-adapter)
+
+api.openweathermap.org/data/2.5/weather?q=Surakarta,uk&APPID=b1c7f540846c57422db9f31107a019a5
